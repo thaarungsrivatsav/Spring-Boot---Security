@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    name: IMS
+    url: jdbc:mysql://localhost:3306/ims_springboot
+    username: root
+    password: admin
+jwt:
+  secret: jwttoken
